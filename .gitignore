@@ -22,3 +22,4 @@ data/processed/*
 *.tar
 *.tar.gz
 bus.jpg
+!datasets/*.dvc
